@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# homework_16
-=======
+
 # Week 16 - Decision Trees and ETL Code Reviews
 
 ## In Class Assignment due Friday, January 14th, 2022 @ 8pm
